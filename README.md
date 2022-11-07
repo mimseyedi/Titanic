@@ -1,6 +1,8 @@
 # titanic
 The Titanic Project is one of Kaggle's data science basic projects, and I have been able to use Python and its libraries to design a classification model to determine the survival of Titanic passengers.
 
+<img src="https://cdn.activestate.com/wp-content/uploads/2021/05/kaggle-titanic-challenge.jpg">
+
 I just used the train file and split the dataset into two parts for learning and predicting. You go according to what kaggle wants.
 
 ## The Challenge
